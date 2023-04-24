@@ -1,0 +1,4 @@
+﻿  Swap_without_max.cpp
+D:\Алгоритмы\Олимпиадное программирование\Swap_without_max\Swap_without_max.cpp(23,21): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\Алгоритмы\Олимпиадное программирование\Swap_without_max\Swap_without_max.cpp(24,21): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Swap_without_max.vcxproj -> D:\Алгоритмы\Олимпиадное программирование\Swap_without_max\x64\Debug\Swap_without_max.exe
